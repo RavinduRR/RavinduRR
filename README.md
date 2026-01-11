@@ -1,5 +1,5 @@
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ravindu Ravishan</h2>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h2 align="center" >Hey there! I'm Ravindu Ravishan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
