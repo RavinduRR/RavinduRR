@@ -14,7 +14,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-
+![Flutter]([https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript](https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Dark.svg))&nbsp;
+![Dart]([https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript](https://github.com/Scar1109/skill-icons/blob/main/icons/Dart-Dark.svg))&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -40,10 +41,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ravishan-rathnayake-083225221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rathnayakeravi32@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/mr_____r__?igsh=MTM1Y3Rub3J5ZW40bA=="><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/share/1HRRrbiUiE/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ravishan-rathnayake-083225221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg"/></a>
+<a href="mailto:rathnayakeravi32@gmail.com"><img src="https://www.vecteezy.com/png/16716465-gmail-png-icon"/></a>
+<a href="https://www.instagram.com/mr_____r__?igsh=MTM1Y3Rub3J5ZW40bA=="><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg"/></a>
+<a href="https://www.facebook.com/share/1HRRrbiUiE/"><img src="https://www.facebook.com/facebook/"/></a>
 </p>
 
 -----
